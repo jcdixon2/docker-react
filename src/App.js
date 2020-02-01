@@ -9,6 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
+          At least docker-compose works with volume mapping.  Still need the cmd line -v option.
         </p>
         <a
           className="App-link"
