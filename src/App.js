@@ -10,7 +10,10 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
           At least docker-compose works with volume mapping.  Still need the cmd line -v option.
+        </p>
+        <p>
           Pushing to AWS!
+          Testing with VPN.
         </p>
         <a
           className="App-link"
